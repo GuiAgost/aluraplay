@@ -10,7 +10,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Curso     | https://cursos.alura.com.br/formacao-css-estilos
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Aluraplay](https://github.com/GuiAgost/aluraplay/assets/76624588/8e8aad03-1a95-410b-a13d-9fa17da2637d#vitrinedev)
 
 ## Detalhes do projeto
 
