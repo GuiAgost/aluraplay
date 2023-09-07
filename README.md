@@ -5,7 +5,7 @@ Projeto Aluraplay foi desenvolvido junto com o curso CSS: Flexbox e layouts resp
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Aluraplay**
-| :label: Tecnologias | html, css
+| :label: Tecnologias | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" hedight="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" hedight="30"/>
 | :rocket: URL         | [https://guiagost.github.io/aluraplay/](https://guiagost.github.io/aluraplay/)
 | :fire: Curso     | [https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos](https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos)
 
